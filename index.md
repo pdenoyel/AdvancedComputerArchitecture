@@ -12,6 +12,8 @@ This is a direct <a href="/Testdocument.docx" download="Testdocument.docx">link<
 
 Direct <a href="https://github.com/pdenoyel/AdvancedComputerArchitecture/blob/master/Testdocument.docx" download="Testdocument.docx">link</a> test 2
 
+Direct <a href="/LitReviews/Test.docx" download="Testdocument.docx">link</a> test 3
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
