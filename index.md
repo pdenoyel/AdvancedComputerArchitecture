@@ -8,7 +8,7 @@ This is a test [download](https://github.com/pdenoyel/AdvancedComputerArchitectu
 
 This is a html <a href="https://github.com/pdenoyel/AdvancedComputerArchitecture/blob/master/Testdocument.docx" download>link</a>.
 
-This is a direct <a href="/Testdocument.docx" download>link</a> test.
+This is a direct <a href="/Testdocument.docx" download="Testdocument">link</a> test.
 
 ### Markdown
 
