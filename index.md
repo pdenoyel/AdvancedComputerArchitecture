@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/pdenoyel/AdvancedComputerA
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This is a test [download](https://github.com/pdenoyel/AdvancedComputerArchitecture/Testdocument.docx) link.
+This is a test [download](https://github.com/pdenoyel/AdvancedComputerArchitecture/blob/master/Testdocument.docx) link.
 
 ### Markdown
 
