@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This is a test [download](https://github.com/pdenoyel/AdvancedComputerArchitecture/blob/master/Testdocument.docx) link.
 
+This is a html <a href="https://github.com/pdenoyel/AdvancedComputerArchitecture/blob/master/Testdocument.docx" download>link</a>.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
