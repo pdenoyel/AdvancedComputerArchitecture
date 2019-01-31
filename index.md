@@ -22,6 +22,8 @@ Second relative [link2](/LitReviews/Test.docx") test 5
 
 Third relative [link3](Testdocument.docx") test 5
 
+Fourth relative [link4](TestText.txt") test 6
+
 
 ### Markdown
 
