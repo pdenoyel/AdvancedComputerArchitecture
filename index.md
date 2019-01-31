@@ -10,6 +10,8 @@ This is a html <a href="https://github.com/pdenoyel/AdvancedComputerArchitecture
 
 This is a direct <a href="/Testdocument.docx" download="Testdocument.docx">link</a> test.
 
+Direct <a href="https://github.com/pdenoyel/AdvancedComputerArchitecture/blob/master/Testdocument.docx" download="Testdocument.docx">link</a> test 2
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
