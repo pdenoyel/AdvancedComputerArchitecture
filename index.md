@@ -5,7 +5,7 @@
 <br>
 
 ## Term Project
-_TBD_
+[Research Presentation](/LitReviews/Study of GPU Performance Characteristics.pptx) **4/11/19**
 <br>
 <br>
 <br>
